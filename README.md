@@ -1,24 +1,11 @@
-# vue-library
+# Vue Library
 
-## Project setup
-```
-npm install
-```
+A basic table of books. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
+[Demo](https://nearmint.github.io/vue-library)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Built with
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Vue.js
+* Firebase Realtime Database
