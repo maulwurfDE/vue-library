@@ -3,7 +3,7 @@
 A basic table of books. 
 
 ## Demo
-[Demo](https://nearmint.github.io/vue-library)
+[Demo](https://maulwurfde.github.io/vue-library)
 
 ## Built with
 
